@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nishant 👋
 
-<!--
-**nishantsysdev-sketch/nishantsysdev-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud & DevOps Engineer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm learning by building, practicing, and solving problems hands-on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+
+* Linux and Ubuntu
+* Python scripting
+* Git and GitHub
+* HTML, CSS and JavaScript
+
+## 🎯 My Goals
+
+* Build practical projects
+* Improve Linux troubleshooting and automation skills
+* Learn Cloud, Docker and CI/CD
+* Explore Cloud Security and DevSecOps in the future
+
+## 📂 My Projects
+
+* [HTML Learning Journey](https://github.com/nishantsysdev-sketch/html-learning-journey)
+
+## 📈 My Approach
+
+Learn by doing. Document my work. Build consistently.
+
+*This is my learning journey — more projects coming soon!*
